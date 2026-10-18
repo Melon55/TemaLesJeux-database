@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "files": {
+    "movies": "movies.json"
+  },
+  "counts": {
+    "movies": 1010
+  }
+}
